@@ -1,10 +1,5 @@
 /*
 X----------SERVER----------X
->> removed env code
-- GOOGLE_CLIENT_ID=646243628401-700htb5sc2sh0dhpdfvkphhi6kvhe6qb.apps.googleusercontent.com
-- GOOGLE_CLIENT_SECRET=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
-- AWS_S3_SECRET_KEY="+Kxvi3vtwjUuOPS3juBwJ6gXOLpp+dqgZPp4ADsm"
-- AWS_S3_ACCESS_KEY="AKIAS7F6DF4DX7R6ZQEX"
 
 >> npm i nodemon -D
 - helps develop node. js based applications 
